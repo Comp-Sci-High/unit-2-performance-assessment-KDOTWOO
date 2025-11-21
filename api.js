@@ -28,3 +28,4 @@ async function isEditable() {
     console.log(info.data[2]);
     return data;
 };
+isEditable()
